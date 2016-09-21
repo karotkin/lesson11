@@ -1,0 +1,10 @@
+[root@agent ~]# puppet agent --server master.minsk.epam.com --waitforcert 60 --test
+Notice: Did not receive certificate
+Notice: Did not receive certificate
+Info: Caching certificate for agent.minsk.epam.com
+Info: Caching certificate_revocation_list for ca
+Info: Using configured environment 'production'
+Info: Retrieving pluginfacts
+Info: Retrieving plugin
+Info: Caching catalog for agent.minsk.epam.com
+Info: Applying configuration version '1474448238'
