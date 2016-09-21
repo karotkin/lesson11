@@ -43,3 +43,7 @@ vim /etc/puppetlabs/code/environments/production/manifests/case1.pp
 Agent:
 
 puppet agent --server servpuppet.minsk.epam.com -t
+
+![](https://github.com/karotkin/lesson11/blob/master/1.png)
+
+![](https://github.com/karotkin/lesson11/blob/master/2.png)
